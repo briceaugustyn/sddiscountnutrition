@@ -134,19 +134,125 @@
   left: 0%;
   margin: 10px;
   font-family:abel, sans-serif;
-  font-size:15px;line-height:30px;color:#FFFFFF;
+  font-size:20px;line-height:30px;color:#FFFFFF;
   font-weight: 100;
-  transform: scale(1, 1.4);
+  transform: scale(1, 1.0);
   /* transform: translate(-50%, -50%); */
 }
 
-.revieworigin {
+.logo1 {
   position: absolute;
-  top: 70%;
-  left: 40%;
+  top: 130%;
+  left: 25%;
   margin: 10px;
   font-family:abel, sans-serif;
   font-size:15px;line-height:30px;color:#FFFFFF;
+  font-weight: 100;
+  transform: scale(1, 1);
+  /* transform: translate(-50%, -50%); */
+}
+
+.star1 {
+  position: absolute;
+  top: 132%;
+  left: 32%;
+  margin: 10px;
+  font-family:abel, sans-serif;
+  font-size:15px;line-height:30px;color:#FFFFFF;
+  font-weight: 100;
+  transform: scale(1, 1);
+  /* transform: translate(-50%, -50%); */
+}
+
+
+.name1 {
+  position: absolute;
+  top: 132%;
+  left: 56%;
+  margin: 10px;
+  font-family:abel, sans-serif;
+  font-size:20px;line-height:30px;color:yellow;
+  font-weight: 100;
+  transform: scale(1, 1);
+  /* transform: translate(-50%, -50%); */
+}
+
+
+
+
+.logo2 {
+  position: absolute;
+  top: 85%;
+  left: 25%;
+  margin: 10px;
+  font-family:abel, sans-serif;
+  font-size:15px;line-height:30px;color:#FFFFFF;
+  font-weight: 100;
+  transform: scale(1, 1);
+  /* transform: translate(-50%, -50%); */
+}
+
+.star2 {
+  position: absolute;
+  top: 87%;
+  left: 32%;
+  margin: 10px;
+  font-family:abel, sans-serif;
+  font-size:15px;line-height:30px;color:#FFFFFF;
+  font-weight: 100;
+  transform: scale(1, 1);
+  /* transform: translate(-50%, -50%); */
+}
+
+
+.name2 {
+  position: absolute;
+  top: 87%;
+  left: 56%;
+  margin: 10px;
+  font-family:abel, sans-serif;
+  font-size:20px;line-height:30px;color:yellow;
+  font-weight: 100;
+  transform: scale(1, 1);
+  /* transform: translate(-50%, -50%); */
+}
+
+
+
+
+
+.logo3 {
+  position: absolute;
+  top: 85%;
+  left: 25%;
+  margin: 10px;
+  font-family:abel, sans-serif;
+  font-size:15px;line-height:30px;color:#FFFFFF;
+  font-weight: 100;
+  transform: scale(1, 1);
+  /* transform: translate(-50%, -50%); */
+}
+
+.star3 {
+  position: absolute;
+  top: 87%;
+  left: 32%;
+  margin: 10px;
+  font-family:abel, sans-serif;
+  font-size:15px;line-height:30px;color:#FFFFFF;
+  font-weight: 100;
+  transform: scale(1, 1);
+  /* transform: translate(-50%, -50%); */
+}
+
+
+.name3 {
+  position: absolute;
+  top: 87%;
+  left: 56%;
+  margin: 10px;
+  font-family:abel, sans-serif;
+  font-size:20px;line-height:30px;color:yellow;
   font-weight: 100;
   transform: scale(1, 1);
   /* transform: translate(-50%, -50%); */
