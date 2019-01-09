@@ -142,7 +142,7 @@
 
 .logo1 {
   position: absolute;
-  top: 130%;
+  top: 100%;
   left: 25%;
   margin: 10px;
   font-family:abel, sans-serif;
@@ -154,7 +154,7 @@
 
 .star1 {
   position: absolute;
-  top: 132%;
+  top: 102%;
   left: 32%;
   margin: 10px;
   font-family:abel, sans-serif;
@@ -167,7 +167,7 @@
 
 .name1 {
   position: absolute;
-  top: 132%;
+  top: 102%;
   left: 56%;
   margin: 10px;
   font-family:abel, sans-serif;
@@ -223,8 +223,8 @@
 
 .logo3 {
   position: absolute;
-  top: 85%;
-  left: 25%;
+  top: 115%;
+  left: 18%;
   margin: 10px;
   font-family:abel, sans-serif;
   font-size:15px;line-height:30px;color:#FFFFFF;
@@ -235,8 +235,8 @@
 
 .star3 {
   position: absolute;
-  top: 87%;
-  left: 32%;
+  top: 117%;
+  left:27%;
   margin: 10px;
   font-family:abel, sans-serif;
   font-size:15px;line-height:30px;color:#FFFFFF;
@@ -248,8 +248,48 @@
 
 .name3 {
   position: absolute;
-  top: 87%;
-  left: 56%;
+  top: 117%;
+  left: 51%;
+  margin: 10px;
+  font-family:abel, sans-serif;
+  font-size:20px;line-height:30px;color:yellow;
+  font-weight: 100;
+  transform: scale(1, 1);
+  /* transform: translate(-50%, -50%); */
+}
+
+
+
+
+.logo4 {
+  position: absolute;
+  top: 115%;
+  left: 13%;
+  margin: 10px;
+  font-family:abel, sans-serif;
+  font-size:15px;line-height:30px;color:#FFFFFF;
+  font-weight: 100;
+  transform: scale(1, 1);
+  /* transform: translate(-50%, -50%); */
+}
+
+.star4 {
+  position: absolute;
+  top: 117%;
+  left:19%;
+  margin: 10px;
+  font-family:abel, sans-serif;
+  font-size:15px;line-height:30px;color:#FFFFFF;
+  font-weight: 100;
+  transform: scale(1, 1);
+  /* transform: translate(-50%, -50%); */
+}
+
+
+.name4 {
+  position: absolute;
+  top: 119%;
+  left: 43%;
   margin: 10px;
   font-family:abel, sans-serif;
   font-size:20px;line-height:30px;color:yellow;
